@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.9",
+        "gregwar/captcha": "^1.2",
+        "erusev/parsedown": "^1.7"
+    }
+}
